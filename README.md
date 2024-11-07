@@ -14,3 +14,6 @@ As this is just a prototype still in progress, there are still a few elements mi
 
 ACKNOWLEDGEMENTS
 This project was loosely inspired by my favourite childhood video game, fruit ninja. I was influenced to use fruits as my main sprites for this protoype as it indludes a creates of nostalgia for myself and peers who may have also played it growing up. This project is based upon learnings in Week 5's in class tutorial were we learnt the foundations of coding in python on Microsoft's MakeCode Arcade. 
+
+Below is the link to my video game prototype 
+
